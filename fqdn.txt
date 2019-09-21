@@ -1,0 +1,9 @@
+# bogus Websites sample*
+non-existant-fqdn.com
+
+# valid examples
+www.netflix.com
+www.google.com
+www.facebook.com
+www.yahoo.com
+www.apple.com
