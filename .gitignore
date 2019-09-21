@@ -1,0 +1,10 @@
+*.bbprojectd
+*.log
+*.retry
+*.sublime-*
+*.swp
+*.tar.gz
+.DS_Store
+.idea
+.vagrant
+
